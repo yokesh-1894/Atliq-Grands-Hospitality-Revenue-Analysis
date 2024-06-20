@@ -42,9 +42,9 @@ https://app.powerbi.com/view?r=eyJrIjoiNTllYjcxMDEtNDg3Ny00MTY4LWJhNzItZDAxNzhjZ
 
 ## Key insights from the Dashboard
 
-1.Mumbai leads in revenue generation with 661 Million, while Bangalore, Hyderabad, and Delhi follow closely.
-2.AtliQ Exotica outperforms all 7 property types with revenue of 320 million, a rating of 3.62, a 57% occupancy rate, and a 24.4% cancellation rate.
-3.AtliQ Blu boasts the highest occupancy rate at 62.02%.
-4.AtliQ suffered a loss of approximately 298 million due to cancellations.
-5.Weekday Pricing and Weekend Pricing are almost similar.
-6.The revenue generated from Atliq's own booking channel is unusually low. Typically, hotels experience higher revenue from their own channels, but this is not the case here. It is possible that they are not offering significant discounts on their own channel.
+1. Mumbai leads in revenue generation with 661 Million, while Bangalore, Hyderabad, and Delhi follow closely.
+2. AtliQ Exotica outperforms all 7 property types with revenue of 320 million, a rating of 3.62, a 57% occupancy rate, and a 24.4% cancellation rate.
+3. AtliQ Blu boasts the highest occupancy rate at 62.02%.
+4. AtliQ suffered a loss of approximately 298 million due to cancellations.
+5. Weekday Pricing and Weekend Pricing are almost similar.
+6. The revenue generated from Atliq's own booking channel is unusually low. Typically, hotels experience higher revenue from their own channels, but this is not the case here. It is possible that they are not offering significant discounts on their own channel.
