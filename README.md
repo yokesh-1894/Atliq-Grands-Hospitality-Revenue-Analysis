@@ -22,7 +22,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Over all Analysis View
 <p align="center">
- <img src="https://github.com/yokesh-1894/Atliq-Grands-Hospitality-Revenue-Analysis/blob/main/hospitality%20dashboard.png">
+ <img src="https://github.com/yokesh-1894/Atliq-Grands-Hospitality-Revenue-Analysis/blob/main/Hospitality%20Dashboard.png">
 </p>
 
 **Step by Step Procedure for Developing Dashboard**
